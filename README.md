@@ -71,13 +71,13 @@ Type ```exit``` to leave the chat.
 1. **Server logs**
    ```
        New client joined: 127.0.0.1
-       Admin alex logged in.
+       Admin user logged in.
        Message from user1: Hello!
    ```
 2. **Client output:**
    ```
     Do you want to register or login? (register/login): login
-    Enter username: alex
+    Enter username: user
     Enter password: 123
     Login successful
     Enter message: Hello everyone!
